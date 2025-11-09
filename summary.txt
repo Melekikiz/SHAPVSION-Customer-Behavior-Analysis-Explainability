@@ -1,0 +1,18 @@
+SHAPVISION 2025 – Swiss Investment Segmentation
+================================================
+
+Top 15% HighPotential Threshold: 0.85
+Logistic Regression AUC: 0.832
+Random Forest AUC: 0.881
+
+Key Predictors:
+ - AnnualIncome
+ - AvgInvestmentSize
+ - InteractionScore
+
+Business Insights:
+ - High income & engagement → higher premium conversion probability.
+ - RiskScore less influential; review scoring calibration.
+ - Zurich & Geneva clients show top portfolio growth potential.
+
+All generated reports and visuals saved under /reports directory.

@@ -1,0 +1,6 @@
+Feature,Importance
+AnnualIncome,0.35
+AvgInvestmentSize,0.3
+InteractionScore,0.2
+RiskScore,0.1
+Age,0.05

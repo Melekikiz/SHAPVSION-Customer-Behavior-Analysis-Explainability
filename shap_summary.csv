@@ -1,0 +1,6 @@
+Feature,MeanSHAP,Direction,BusinessInsight
+AnnualIncome,0.12,Positive,High income drives premium conversion
+AvgInvestmentSize,0.11,Positive,Bigger investments increase probability
+InteractionScore,0.08,Positive,Customer engagement strengthens retention
+RiskScore,0.04,Neutral,Minor effect on investment likelihood
+Age,0.03,Negative,Younger customers less likely high-potential
